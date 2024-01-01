@@ -1,4 +1,4 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Akashdeep
 
 <!--
 **Akashdeep-Roy01/Akashdeep-Roy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:school: Currently pursuing my M.Sc. in Robotic Systems Engineering at RWTH Aachen University, Aachen, Germany.
+
+🔭 Interests : Autonomous Vehicles, Robotics, Computer Vision, Reinforcement Learning and Machine Learning  
+
+📫 How to reach me: akashdeep.roy@rwth-aachen.de
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashdeep-Roy01&hide=jupyter%20notebook,cmake,DockerFile,M&theme=github_dark&layout=compact&hide_border=true)
