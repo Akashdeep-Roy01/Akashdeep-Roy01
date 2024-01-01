@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:school: Currently pursuing my M.Sc. in Robotic Systems Engineering at RWTH Aachen University, Aachen, Germany.
+:school: Currently pursuing my M.Sc. in Robotic Systems Engineering at RWTH Aachen University, Germany.
 
 🔭 Interests : Autonomous Vehicles, Robotics, Computer Vision, Reinforcement Learning and Machine Learning  
 
