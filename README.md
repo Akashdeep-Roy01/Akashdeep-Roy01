@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:school: Currently studying my M.Sc. in Robotic Systems Engineering at RWTH Aachen University, Germany.
+:school: Currently studying M.Sc. Robotic Systems Engineering at RWTH Aachen University, Germany.
 
-🔭 Interests : Autonomous Vehicles, Robotics, Computer Vision, Reinforcement Learning and ML  
+🔭 Interests : 
+   - Robotics
+   - Computer Vision
+   - Machine Learning  
+   - Autonomous Vehicles
+   - Reinforcement Learning
+
+
 
 📫 How to reach me: akashdeep.roy@rwth-aachen.de
 
