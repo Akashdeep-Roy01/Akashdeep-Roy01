@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 :school: Currently studying M.Sc. Robotic Systems Engineering at RWTH Aachen University, Germany.
 
-🔭 Interests : 
+Interests : 
    - Robotics
    - Computer Vision
    - Machine Learning  
